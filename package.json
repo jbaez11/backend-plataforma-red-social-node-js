@@ -1,0 +1,22 @@
+{
+  "name": "backend-plataforma-redsocial-node",
+  "version": "1.0.0",
+  "description": " backend completo de una  red social minimalista. Con microservicios, con usuarios, posts, follow e interacciones.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "red",
+    "social",
+    "microservicios",
+    "sistema",
+    "de",
+    "cache"
+  ],
+  "author": "Jonathan Baez",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
